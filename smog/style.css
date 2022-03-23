@@ -1,0 +1,135 @@
+body
+{
+  background-color: #303030;
+  margin-left: auto;
+	margin-right: auto;
+  margin-top: auto;
+	margin-bottom: auto;
+}
+
+
+.ankieta
+{
+	width: 1000px;
+  height: 100px;
+  margin-left: 50 px;
+	margin-right: auto;
+  margin-top: 50 px;
+	margin-bottom: auto;
+	color: white;
+	
+}
+
+.containter
+{
+  width: 1000px;
+  height: 600px;
+  margin-left: auto;
+	margin-right: auto;
+  margin-top: auto;
+	margin-bottom: auto;
+}
+
+.romb
+{
+	text-align: center;
+	width: 500px;
+	height: 300px;
+	clip-path: polygon(50% 0, 100% 50%, 50% 100%, 0 50%);
+	display:table-cell;
+	vertical-align: middle;	
+}
+
+#romb1 {
+
+  background-color: #3095d3;
+  top: 0px;
+  left: 0px;
+  position: relative;
+}
+
+#romb1:hover
+{
+	background-color: #2084c2;
+}
+
+
+#romb2 {
+
+  background-color: #666666;
+  top: -300px;
+  left: 500px;
+  position: relative;
+}
+#romb2:hover
+{
+	background-color: #555555;
+}
+
+
+#romb3 
+{
+	background-color: #93c748;
+	top: -450px;
+	left: 250px;
+	position: relative;
+
+}
+
+#romb3:hover
+{
+	
+	background-color: #82b637;
+}
+
+  
+#romb4 {
+	background-color: #ee5a32;
+	top: -600px;
+	left: 0px;
+	position: relative;
+}
+
+#romb4:hover
+{
+	background-color: #D44D1D;
+}
+
+#romb5 {
+ 
+  background-color: #d94348;
+  top: -900px;
+  left: 500px;
+  position: relative;
+}
+
+#romb5:hover
+{
+	background-color: #c83237;
+}
+
+a.link
+{
+	
+	
+	color: #ffffffff;
+	text-decoration: none;
+
+}
+
+
+a.link2
+{
+	color: #ffffffff;
+	text-decoration: none;
+}
+
+a.link2:hover
+{
+	color: #666666;
+}
+
+
+
+
+}
