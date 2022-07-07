@@ -1,7 +1,7 @@
 <?php
-	$db_host	 = "79.189.200.10:3400";
+	$db_host	 = "X";
 	$db_user 	 = "meteo_zam";
-	$db_password = "2&X(jX]l@R$0=]4";
+	$db_password = "X";
 	$db_name 	 = "meteo_zam";
 	$connection = mysqli_connect ($db_host, $db_user,$db_password, $db_name);
 	
